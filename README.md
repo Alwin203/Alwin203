@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Alwin203
+- 👋 Hi, I’m @Alwin
 - 👀 I’m interested in coding and VFX sector.
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c/c++.
+- 💞️ I’m looking to collaborate on anything we could do together.
 - 📫 How to reach me my gmail: alwinbhandari303@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: merry goes round
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: merry goes round.
 
 <!---
 Alwin203/Alwin203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
